@@ -1,4 +1,5 @@
 # ITGlue-Support-Push-Microsoft-synced-Contacts-into-Autotask
+Author: Bart Jozwiak
 This script will scan IT Glue account for organizations actively syncing with Microsoft and Autotask. From those organizations, it will filter out contacts that are actively syncing with Microsoft but not with Autotask. The script will create contacts inside Autotask in the corresponding companies.
 Once the script is done, a full account sync is required to pick up the match
 Script will prompt for IT Glue API key and Autotask credentials
