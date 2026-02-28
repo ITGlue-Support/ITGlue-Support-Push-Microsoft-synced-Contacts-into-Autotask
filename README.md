@@ -11,7 +11,10 @@ Script will skip any contacts if the email already exists inside Autotask to avo
 Any contact that doesn't have the required fields will also be skipped (First Name, Last Name and Email)
 
 Prerequisites:
+
+
 IT Glue API key
+
 API User credentials generated inside Autotask (Security Level: APIUser System): Username, password, tracking identifier
 
 <img width="515" height="547" alt="image" src="https://github.com/user-attachments/assets/ac91ece7-eff2-4f11-93f2-05aad62cfc8d" />
