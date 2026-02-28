@@ -35,3 +35,12 @@ Autotask Base URL can be found inside the main definition and by default is poin
 The webservices number has to be updated to match the UI inside Autotask:
 
 <img width="1285" height="629" alt="image" src="https://github.com/user-attachments/assets/907334a8-952a-48c2-aea6-4e0d738ed4b2" />
+
+
+
+Disclaimer:
+
+
+
+The information provided here by IT Glue is for general informational purposes only. All information is provided in good faith, however, we make no representations or warranties of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information provided.
+Under no circumstances shall we have any liability to you for any loss or damage of any kind incurred as a result of the use of the information provided here. Your use of this information is solely at your own risk.
