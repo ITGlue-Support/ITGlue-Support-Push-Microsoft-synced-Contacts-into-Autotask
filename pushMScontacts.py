@@ -22,7 +22,7 @@ def safe_request(method, url, headers=None, json=None, params=None, max_retries=
             if resp.status_code < 400:
                 return resp
 
-            # If Autotask returns 500, PRINT THE REAL MESSAGE
+            # If Autotask returns 500, PRINT FULL RESPONSE
             if resp.status_code == 500:
                 try:
                     print(f"[AT ERROR BODY] {resp.json()}")
@@ -368,4 +368,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
