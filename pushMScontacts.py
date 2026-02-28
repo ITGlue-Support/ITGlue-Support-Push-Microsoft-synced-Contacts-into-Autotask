@@ -204,7 +204,7 @@ def create_contact_in_autotask(base_url, auth_headers, company_id, contact_data,
         print(f"[SKIP] Missing email for contact '{first} {last}'.")
         return False
 
-    # CORRECT Autotask Contact JSON (no 'items', PascalCase keys)
+    #  Autotask Contact JSON
     payload = {
         "IsActive": 1,
         "FirstName": first,
@@ -368,3 +368,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
